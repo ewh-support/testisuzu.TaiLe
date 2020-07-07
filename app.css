@@ -19771,6 +19771,7 @@ img{
 .fs-12{
     font-size: 12px !important;
 }
+
 .tab-link:not(.tab-link-active){
     color: #fff;
 }
@@ -22529,8 +22530,8 @@ ul[data-v-5ac640f5]::after {
     height: 0px;
 }
 .webkit[data-v-5ac640f5] {
-    height: 35px !important;
-    line-height: 35px !important;
+    height: 50px !important;
+    line-height: 50px !important;
     display: block !important;
 }
 
